@@ -1,5 +1,6 @@
 ## 💰 EveryRupee – Your AI-Powered Personal Finance Copilot
 
+
 **EveryRupee** is an AI-driven personal finance platform built to make financial literacy simple, accessible, and actionable for everyone. Millions of individuals struggle with budgeting, savings planning, investment decisions, and identifying financial scams. Most existing tools are either too complex, overly generic, or not beginner-friendly. EveryRupee bridges this gap by offering intelligent, personalized financial guidance through a clean and conversational interface.
 
 The platform acts as a **Financial Copilot**, helping users understand, manage, and grow their money confidently. Instead of overwhelming users with technical jargon, EveryRupee explains financial concepts in clear, everyday language. Whether someone is just starting their financial journey or planning long-term wealth creation, the platform adapts to their income, goals, and risk profile to deliver tailored recommendations.
